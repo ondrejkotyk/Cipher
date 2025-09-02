@@ -1,0 +1,6 @@
+C:\Users\ondre\Desktop\Shkh\Programování\sifra\sifra\bin\Debug\sifra.exe
+C:\Users\ondre\Desktop\Shkh\Programování\sifra\sifra\bin\Debug\sifra.pdb
+C:\Users\ondre\Desktop\Shkh\Programování\sifra\sifra\obj\Debug\sifra.csprojResolveAssemblyReference.cache
+C:\Users\ondre\Desktop\Shkh\Programování\sifra\sifra\obj\Debug\sifra.csproj.CoreCompileInputs.cache
+C:\Users\ondre\Desktop\Shkh\Programování\sifra\sifra\obj\Debug\sifra.exe
+C:\Users\ondre\Desktop\Shkh\Programování\sifra\sifra\obj\Debug\sifra.pdb
